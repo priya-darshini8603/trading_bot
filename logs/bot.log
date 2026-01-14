@@ -1,0 +1,10 @@
+2026-01-14 11:47:20,578 | INFO | Connected to Binance Futures Testnet
+2026-01-14 11:47:21,013 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'response': {}}
+2026-01-14 11:47:26,423 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'response': {}}
+2026-01-14 11:47:31,614 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'response': {}}
+2026-01-14 11:47:36,801 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'response': {}}
+2026-01-14 12:09:42,848 | INFO | Connected to Binance Futures Testnet
+2026-01-14 12:09:43,530 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 45000.0, 'timeInForce': 'GTC'}, 'response': {}}
+2026-01-14 12:11:12,370 | INFO | Connected to Binance Futures Testnet
+2026-01-14 12:11:12,722 | INFO | {'action': 'ORDER_REQUEST', 'params': {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}, 'response': {}}
+
